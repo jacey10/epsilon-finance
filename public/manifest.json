@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "Anchor Vault",
-  "short_name": "Anchor",
+  "name": "Epsilon",
+  "short_name": "Epsilon",
   "description": "Personal finance tracker",
   "start_url": "/app",
   "scope": "/",
