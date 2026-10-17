@@ -1,5 +1,5 @@
 // sw.js
-const CACHE = 'anchor-v3'; // bump this whenever you change this file
+const CACHE = 'epsilon-v1'; // bump this whenever you change this file
 
 const APP_SHELL = [
   '/',
